@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salve 👋
 
 - 🌱 I’m currently learning (html, css, javascript)
 - 📫 How to reach me: (discord: Luiss#8776)
