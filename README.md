@@ -1,5 +1,5 @@
 ### Salve 👋
 
-- 🌱 Attualmente sto imparando (javascript avanzato)
+- 🌱 Attualmente sto imparando React js
 - 📫 Contattami (discord: Luiss#8776)
 - 😄 Pronomi: he/him
