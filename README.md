@@ -2,4 +2,4 @@
 
 - 🌱 Attualmente sto imparando React js
 - 📫 Contattami (discord: Luiss#8776)
-- 😄 Pronomi: he/him
+- 💻 Skills: html, css, js, sass, reactjs
