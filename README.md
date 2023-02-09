@@ -1,5 +1,5 @@
 ### Salve 👋
 
-- 🌱 Attualmente sto imparando React js
+- 🌱 Attualmente sto imparando Bootstrap
 - 📫 Contattami (discord: Luiss#8776)
-- 💻 Skills: html, css, js, sass, reactjs
+- 💻 Skills: html, css, js, sass, reactjs, git
