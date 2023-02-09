@@ -1,5 +1,5 @@
 ### Salve 👋
 
 - 🌱 Attualmente sto imparando Bootstrap
-- 📫 Contattami (discord: Luiss#8776)
+- 📫 Contattami (hkf24kdns@gmail.com)
 - 💻 Skills: html, css, js, sass, reactjs, git
