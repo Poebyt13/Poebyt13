@@ -4,7 +4,7 @@
 Hi 👋 My name is Luis
 =====================
 
-My name is Luis, I'm a 20 years old guy, passionate about programming, I studied all the technologies I now know as a self-taught (html, css, javascript, react, tailwindcss, git, scss, vite, nodejs and express), besides web development I'm reinforcing other branches like AI (python)
+My name is Luis, I'm a 21 years old guy, passionate about programming, I studied all the technologies I now know as a self-taught (html, css, javascript, react, tailwindcss, git, scss, vite, nodejs and express), besides web development I'm reinforcing other branches like AI (python)
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [MyPortfolio](http://luisdevapp.netlify.app/)
